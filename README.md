@@ -6,7 +6,7 @@ A decentralized event ticketing system using NFTs to ensure secure, transparent,
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
+- [Overview](#-overview)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [System Architecture](#system-architecture)
