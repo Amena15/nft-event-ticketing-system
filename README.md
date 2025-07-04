@@ -50,8 +50,6 @@ The **NFT Event Ticketing System** is a full-stack decentralized application (dA
 
 ## 🏗️ System Architecture
 
-## 🏗️ System Architecture
-
 <p align="center">
   <img src="img/System_Architecture.jpg" alt="System Architecture" width="400"/>
 </p>
