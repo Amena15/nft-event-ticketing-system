@@ -7,15 +7,15 @@ A decentralized event ticketing system using NFTs to ensure secure, transparent,
 ## 📌 Table of Contents
 
 - [Overview](#-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [System Architecture](#system-architecture)
-- [Smart Contracts](#smart-contracts)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Future Improvements](#future-improvements)
-- [License](#license)
+- [Features](#-features)
+- [Technologies Used](#-technologies-used)
+- [System Architecture](#-system-architecture)
+- [Smart Contracts](#-smart-contracts)
+- [Getting Started](#-getting-started)
+- [Project Structure](#-project-structure)
+- [Screenshots](#-screenshots)
+- [Future Improvements](#-future-improvements)
+
 
 ---
 
@@ -51,17 +51,6 @@ The **NFT Event Ticketing System** is a full-stack decentralized application (dA
 
 ## 🏗️ System Architecture
 
-```
-
-\[User Wallet]
-↓
-\[Frontend (React)]
-↓        ↑
-\[Smart Contracts (Solidity)]
-↓
-\[Blockchain (Ethereum)]
-
-````
 
 - **Frontend** interacts with users through MetaMask.
 - **Smart contracts** manage ticket minting, transfer, and ownership.
@@ -149,25 +138,16 @@ nft-event-ticketing-system/
 
 ## 🖼️ Screenshots
 
-> 📷 Add screenshots or UI interfaces here for demo and clarity.
+
 
 ---
 
 ## 🔮 Future Improvements
 
-* ✅ QR code verification system
-* ✅ Ticket resale marketplace
-* ✅ IPFS integration for storing ticket metadata
-* ✅ Admin dashboard for event organizers
-* ✅ Role-based access control (RBAC)
+*  QR code verification system
+*  Ticket resale marketplace
+*  IPFS integration for storing ticket metadata
+*  Admin dashboard for event organizers
+*  Role-based access control (RBAC)
 
----
 
-### ✅ Tips
-- You can paste this directly into your `README.md` file.
-- Add screenshots to the `/img` folder and link them in the **Screenshots** section using Markdown:
-  ```markdown
-  ![Ticket UI](img/Ghibli.png)
-````
-
-Let me know if you want to include badges (build, license, etc.) or a live demo section.
