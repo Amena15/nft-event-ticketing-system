@@ -1,0 +1,29 @@
+1. Terminal 1 = 
+   cd backend
+   npm install
+   npx hardhat node
+2. Terminal 2 =
+   cd backend
+   npx hardhat run scripts/deploy.js --network localhost
+3. Copy ✅ NFTticketing deployed to: ... 
+   paste to factory_address
+4. Terminal 3 =
+   cd frontend
+   npm install
+   npm start
+
+----------------------------------------------------------------
+Public - createevent
+       - buy ticket
+       - if (resold == true), resell function visible
+
+Organizer - setstate
+          - edit
+          - cancel
+
+----------------------------------------------------------------
+If edit contract
+- npx hardhat compile
+- cp artifacts/contracts/Event.sol/Event.json ../frontend/src/contracts/Event.json
+- cp artifacts/contracts/NFTticketing.sol/NFTticketing.json ../frontend/src/contracts/NFTticketing.json
+- npx hardhat run scripts/deploy.js --network localhost
