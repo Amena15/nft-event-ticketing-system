@@ -13,7 +13,6 @@ A decentralized event ticketing system using NFTs to ensure secure, transparent,
 - [Smart Contracts](#-smart-contracts)
 - [Getting Started](#-getting-started)
 - [Project Structure](#-project-structure)
-- [Screenshots](#-screenshots)
 - [Future Improvements](#-future-improvements)
 
 
@@ -51,6 +50,11 @@ The **NFT Event Ticketing System** is a full-stack decentralized application (dA
 
 ## 🏗️ System Architecture
 
+## 🏗️ System Architecture
+
+<p align="center">
+  <img src="img/System_Architecture.jpg" alt="System Architecture" width="400"/>
+</p>
 
 - **Frontend** interacts with users through MetaMask.
 - **Smart contracts** manage ticket minting, transfer, and ownership.
@@ -133,12 +137,6 @@ nft-event-ticketing-system/
 ├── instructions.txt
 └── README.md
 ```
-
----
-
-## 🖼️ Screenshots
-
-
 
 ---
 
